@@ -1,7 +1,7 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is going to function as a way to sell merchandise over my website as an artist.  I'll be able to sell cd's, tickets, stickers, merchandise, etc. over my website.
+
 
 Things you may want to cover:
 
